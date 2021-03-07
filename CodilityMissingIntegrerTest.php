@@ -38,7 +38,7 @@ function solution($A) {
         return null;
     }
 }
-// TEST CASES. REMOVE THESE WHEN TESTING ON CODILITY
+// THESE ARE TEST CASES. REMOVE EVERYTHING BELOW WHEN RUNNING ON CODILITY
 $test1 = array(-10, -1000, -101, -10, -1);  //-VE VALUES
 $test2 = array(-1100, -12, 22, 1);          //+VE & -VE VALUES
 $test3 = array(1200, 10, 12, 92);           //+VE SKIPPING VALUES
