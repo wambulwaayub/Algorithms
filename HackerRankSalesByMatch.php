@@ -1,5 +1,5 @@
 <?php
-//Sales by Match
+//HackerRank Sales by Match PHP Solution
 function sockMerchant($n, $ar) {
     $n = count($ar);
     $new_arr=array_count_values($ar);
